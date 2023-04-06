@@ -1,7 +1,7 @@
 {
 	"name": "John song NFT",
 	"description": "This is John song NFT",
-	"image": "https://nft.iamja.ga/erc1155/image/john.png",
+	"image": "https://github.com/lwk1008/NFTMetadata/blob/master/picture/john.png",
 	"properties": {
         "attributes": [
             {

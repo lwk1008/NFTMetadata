@@ -1,7 +1,7 @@
 {
 	"name": "Serini song NFT",
 	"description": "This is Serini song NFT",
-	"image": "https://nft.iamja.ga/erc1155/image/serrini.png",
+	"image": "https://github.com/lwk1008/NFTMetadata/blob/master/picture/serrini.png",
 	"properties": {
         "attributes": [
             {
