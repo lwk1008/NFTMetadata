@@ -1,7 +1,7 @@
 {
 	"name": "Keung To song NFT",
 	"description": "This is Keung To song NFT",
-	"image": "https://github.com/lwk1008/NFTMetadata/blob/master/picture/keungto.png",
+	"image": "https://raw.githubusercontent.com/lwk1008/NFTMetadata/master/picture/keungto.png",
 	"properties": {
         "attributes": [
             {

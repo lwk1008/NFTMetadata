@@ -1,7 +1,7 @@
 {
 	"name": "Anson Lo song NFT",
 	"description": "This is Anson Lo NFT",
-	"image": "https://github.com/lwk1008/NFTMetadata/blob/master/picture/anson_lo.png",
+	"image": "https://raw.githubusercontent.com/lwk1008/NFTMetadata/master/picture/anson_lo.png",
 	"properties": {
         "attributes": [
             {

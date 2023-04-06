@@ -1,7 +1,7 @@
 {
 	"name": "Hero Man song NFT",
 	"description": "This is Hero Man song NFT",
-	"image": "https://github.com/lwk1008/NFTMetadata/blob/master/picture/Hero-man.png",
+	"image": "https://raw.githubusercontent.com/lwk1008/NFTMetadata/master/picture/Hero-man.png",
 	"properties": {
         "attributes": [
             {

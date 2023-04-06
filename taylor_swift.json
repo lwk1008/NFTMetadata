@@ -1,7 +1,7 @@
 {
 	"name": "Taylor Swift song NFT",
 	"description": "This is Taylor Swift NFT",
-	"image": "https://github.com/lwk1008/NFTMetadata/blob/master/picture/taylor_swift.png",
+	"image": "https://raw.githubusercontent.com/lwk1008/NFTMetadata/master/picture/taylor_swift.png",
 	"properties": {
         "attributes": [
             {

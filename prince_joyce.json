@@ -1,7 +1,7 @@
 {
 	"name": "Prince Joyce song NFT",
 	"description": "This is Prince Joyce song NFT",
-	"image": "hhttps://github.com/lwk1008/NFTMetadata/blob/master/picture/prince_joyce.png",
+	"image": "https://raw.githubusercontent.com/lwk1008/NFTMetadata/master/picture/prince_joyce.png",
 	"properties": {
         "attributes": [
             {

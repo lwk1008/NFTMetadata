@@ -1,7 +1,7 @@
 {
 	"name": "Alex song NFT",
 	"description": "This is Alex_song NFT",
-	"image": "https://github.com/lwk1008/NFTMetadata/blob/master/picture/alex.png",
+	"image": "https://raw.githubusercontent.com/lwk1008/NFTMetadata/master/picture/alex.png",
 	"properties": {
         "attributes": [
             {

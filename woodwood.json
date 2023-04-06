@@ -1,7 +1,7 @@
 {
 	"name": "WoodWood song NFT",
 	"description": "This is the WoodWood song NFT",
-	"image": "https://github.com/lwk1008/NFTMetadata/blob/master/picture//woodwood.png",
+	"image": "https://raw.githubusercontent.com/lwk1008/NFTMetadata/master/picture/woodwood.png",
 	"properties": {
         "attributes": [
             {

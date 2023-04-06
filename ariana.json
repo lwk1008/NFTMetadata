@@ -1,7 +1,7 @@
 {
 	"name": "Ariana song NFT",
 	"description": "This is Ariana song NFT",
-	"image": "https://github.com/lwk1008/NFTMetadata/blob/master/picture/ariana.png",
+	"image": "https://raw.githubusercontent.com/lwk1008/NFTMetadata/master/picture/ariana.png",
 	"properties": {
         "attributes": [
             {
