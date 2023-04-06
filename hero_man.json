@@ -33,5 +33,25 @@
                 "value": 1546360800
             }
         ]
-    }
+    },
+    "dml":{
+      "urlToMedia": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
+      "license": [
+          {
+              "name": "Youtube license",
+              "price": 0.1,
+              "description": "This license is for content creator to use the meterial for video that will be uploaded to Youtube"
+          },
+          {
+              "name": "Busker license",
+              "price": 0.2,
+              "description": "This license is for busking"
+          },
+          {
+              "name": "Auditor license",
+              "price": 0.3,
+              "description": "This license is for 3rd party auditor"
+          }
+      ]
+  } 
 }
