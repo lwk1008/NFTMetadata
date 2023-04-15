@@ -56,6 +56,11 @@
               "name": "Sound recording license",
               "price": 0.2,
               "description": "This license is for sound recording and MMO"
+          },
+          {
+            "name": "test license",
+            "price": 0.2,
+            "description": "This license is for sound recording and MMO"
           }
       ]
   }
